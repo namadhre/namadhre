@@ -6,11 +6,10 @@
 
 ### 💡 About Me
 
-- 🔹 Passionate about solving complex problems and optimizing performance.
-- 🔹 Over 2 years of experience in Back-End Development, specializing in SaaS products.
+- 🔹 **Computer Science Engineer** from **IIIT RKV**, Andhra Pradesh, India.
+- 🔹 Professional Software Development Engineer with Over 2 years of experience in Back-End Development, specializing in **Node.js**.
 - 🔹 Skilled in **JavaScript, Python, Node.js, React.js, Express.js, Sequelize.js, PostgreSQL, SQL, and more.**
 - 🔹 Love contributing to open-source projects and exploring new technologies.
-- 🔹 Awarded the **Prathibha Award** by the Government of Andhra Pradesh for academic excellence.
 - 🔹 Passionate about coding, traveling, and building software that makes life easier.
 
 ---
