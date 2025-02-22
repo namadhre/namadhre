@@ -1,6 +1,6 @@
 # Hi there, I'm Mahendra Chinthamgari! 👋
 
-🚀 **Software Engineer | Back-End Developer | Open-Source Contributor**
+🚀 **Software Engineer | Back-End Developer**
 
 ---
 
