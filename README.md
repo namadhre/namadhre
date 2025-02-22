@@ -39,8 +39,12 @@
 ---
 
 ### 📬 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/namadhre) 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/namadhre)
+<p align="left">
+<a href="https://linkedin.com/in/namadhre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="namadhre" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/namadhre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="namadhre" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/namadhre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="namadhre" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/namadhre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="namadhre" height="30" width="40" /></a>
+</p>
 
 📧 Feel free to reach out via [Email](mailto:mahendrachinthamgari@gmail.com) for collaboration, open-source contributions, or any tech discussions!
 
