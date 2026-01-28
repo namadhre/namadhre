@@ -1,13 +1,13 @@
 # Hi there, I'm Mahendra Chinthamgari! 👋
 
-🚀 **Software Engineer | Back-End Developer**
+🚀 **Software Engineer | Full-Stack Developer | Back-End Developer**
 
 ---
 
 ### 💡 About Me
 
 - 🔹 **Computer Science Engineer** from **IIIT RKV**, Andhra Pradesh, India.
-- 🔹 Professional Software Development Engineer with Over 2 years of experience in Back-End Development, specializing in **Node.js**.
+- 🔹 Professional Software Development Engineer with Over 3 years of experience in Full-Stack Development (BE Focused), specializing in **Node.js**.
 - 🔹 Skilled in **JavaScript, Python, Node.js, React.js, Express.js, Sequelize.js, PostgreSQL, SQL, and more.**
 - 🔹 Love contributing to open-source projects and exploring new technologies.
 - 🔹 Passionate about coding, traveling, and building software that makes life easier.
